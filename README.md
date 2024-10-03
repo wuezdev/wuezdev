@@ -29,23 +29,10 @@ def cafe_magico():
 print(cafe_magico())
 ```
 
-## 📚 Grimório (Projetos em Destaque)
-
-1. 🔮 [Bola de Cristal Preditiva](link-do-projeto) - Um modelo de machine learning para prever o futuro (ou pelo menos tendências de dados)
-2. 🧪 [Poção de Limpeza de Dados](link-do-projeto) - Uma ferramenta mágica para purificar datasets contaminados
-3. 🗺️ [Mapa do Tesouro de Insights](link-do-projeto) - Dashboard interativo para explorar terrenos de dados desconhecidos
-
-## 📜 Pergaminhos Sagrados (Artigos/Blog)
-
-- [A Arte Secreta da Engenharia de Features](link-do-artigo)
-- [Invocando Insights: Um Guia para Data Storytelling](link-do-artigo)
-- [Quebrando a Maldição da Dimensionalidade](link-do-artigo)
-
 ## 🌟 Invoque-me
 
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/seu-canal)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/seu-perfil)
+
+[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/wesleyisaac/))
 
 ---
 
